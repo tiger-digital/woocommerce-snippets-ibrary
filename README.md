@@ -2,7 +2,7 @@
 
 A collection of useful code snippets to add much functionality requested by store owners to WooCommerce, and other popular WooCommerce plugins.
 
-Please note these code snippets are provided as examples of how you can extend WooCommerce. It's up to you to implement and customise to your liking. We don't take responsobility for 
+Please note these code snippets are provided as examples of how you can extend WooCommerce. It's up to you to implement and customise to your liking.
 
 ## Reporting Issues
 
