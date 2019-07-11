@@ -1,6 +1,6 @@
 <?php
 /**
- * WooCommerce Google Analytics Integration: Google Optimize integration
+ * WooCommerce Google Analytics Integration: Google Optimize Integration
  *
  * Requires https://woocommerce.com/products/woocommerce-google-analytics/
  *
