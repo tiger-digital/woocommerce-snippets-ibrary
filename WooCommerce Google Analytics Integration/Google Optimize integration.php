@@ -1,10 +1,10 @@
 <?php
 /**
- * WooCommerce Google Analytics Integration: Google Optimize integration
- *
- * Requires https://woocommerce.com/products/woocommerce-google-analytics/
- *
- * Replace GTM-XXXXXXX with your Optimize container ID
+ * @snippet       WooCommerce Google Analytics: Google Optimize Integration
+ * @requires      https://woocommerce.com/products/woocommerce-google-analytics/
+ * @author        Nazar Igorovitch
+ * @tutorial      https://tigerdigital.co.uk/insight/woocommerce-how-to-install-google-optimize
+ * @compatible    1.4.10
  */
 
 //Google Optimize
